@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "dependencies": {
+    "node-gyp": "^3.8.0",
+    "opencc": "^1.1.1"
+  }
+}

@@ -1,0 +1,1 @@
+# opencc-node-gyp-test
